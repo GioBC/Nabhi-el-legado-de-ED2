@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv:*)",
+      "Bash(while read file)",
+      "Bash(do if [ $#ile -gt 200 ])",
+      "Bash(then echo \"$file (length: $#ile)\")",
+      "Bash(fi)",
+      "Bash(done)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

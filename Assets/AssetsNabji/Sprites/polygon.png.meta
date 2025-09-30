@@ -1,0 +1,1997 @@
+fileFormatVersion: 2
+guid: d4af84294a048d64cad4c2d51c3519b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4318984031609217656
+    second: polygon_0
+  - first:
+      213: 795341414042271682
+    second: polygon_1
+  - first:
+      213: -7945965472532582028
+    second: polygon_2
+  - first:
+      213: 5327274405340150897
+    second: polygon_3
+  - first:
+      213: 7461278008263196416
+    second: polygon_4
+  - first:
+      213: -8902692382410918224
+    second: polygon_5
+  - first:
+      213: -6412933642595718463
+    second: polygon_6
+  - first:
+      213: 583817396978785594
+    second: polygon_7
+  - first:
+      213: 7102111972624893461
+    second: polygon_8
+  - first:
+      213: -3773194490676495276
+    second: polygon_9
+  - first:
+      213: -8828710401281416997
+    second: polygon_10
+  - first:
+      213: 2096643797171618042
+    second: polygon_11
+  - first:
+      213: 5013373784365365612
+    second: polygon_12
+  - first:
+      213: -3964997658696844397
+    second: polygon_13
+  - first:
+      213: -3109236138152768030
+    second: polygon_14
+  - first:
+      213: -7167833771216280586
+    second: polygon_15
+  - first:
+      213: 4393965708193757394
+    second: polygon_16
+  - first:
+      213: -2919861434027934780
+    second: polygon_17
+  - first:
+      213: -2450755050333891054
+    second: polygon_18
+  - first:
+      213: -8604123602610185003
+    second: polygon_19
+  - first:
+      213: 2331216994303580989
+    second: polygon_20
+  - first:
+      213: -6369145662504282973
+    second: polygon_21
+  - first:
+      213: -6243140416099478363
+    second: polygon_22
+  - first:
+      213: 3144732843205884434
+    second: polygon_23
+  - first:
+      213: 6815253684653453131
+    second: polygon_24
+  - first:
+      213: 5607997112193339498
+    second: polygon_25
+  - first:
+      213: -6980977332292132182
+    second: polygon_26
+  - first:
+      213: 1648629057844152915
+    second: polygon_27
+  - first:
+      213: -5421947314791881917
+    second: polygon_28
+  - first:
+      213: -6028251221516266321
+    second: polygon_29
+  - first:
+      213: -7234966995013128679
+    second: polygon_30
+  - first:
+      213: 8131697181434159331
+    second: polygon_31
+  - first:
+      213: 769757107945841170
+    second: polygon_32
+  - first:
+      213: 2383141302127425568
+    second: polygon_33
+  - first:
+      213: -9030485527444845962
+    second: polygon_34
+  - first:
+      213: -4472615597419548550
+    second: polygon_35
+  - first:
+      213: 1860176428782943174
+    second: polygon_36
+  - first:
+      213: 3232725953831191568
+    second: polygon_37
+  - first:
+      213: 8512082822875894542
+    second: polygon_38
+  - first:
+      213: -3914048870523151804
+    second: polygon_39
+  - first:
+      213: -4352654488014314592
+    second: polygon_40
+  - first:
+      213: -2542225312628275620
+    second: polygon_41
+  - first:
+      213: 3226717042507274159
+    second: polygon_42
+  - first:
+      213: -3210481539992299508
+    second: polygon_43
+  - first:
+      213: -5178906485111189258
+    second: polygon_44
+  - first:
+      213: -7935636933475338299
+    second: polygon_45
+  - first:
+      213: 7112886128286951651
+    second: polygon_46
+  - first:
+      213: -6165868097765183004
+    second: polygon_47
+  - first:
+      213: 8147745714633416250
+    second: polygon_48
+  - first:
+      213: 2300952764624919775
+    second: polygon_49
+  - first:
+      213: -9134444979972093345
+    second: polygon_50
+  - first:
+      213: -4947380643436932929
+    second: polygon_51
+  - first:
+      213: -1324018376095541846
+    second: polygon_52
+  - first:
+      213: -6834913306603924891
+    second: polygon_53
+  - first:
+      213: 7584376127352111058
+    second: polygon_54
+  - first:
+      213: 8755183281306263113
+    second: polygon_55
+  - first:
+      213: -8469230898512031590
+    second: polygon_56
+  - first:
+      213: -5805165045921508870
+    second: polygon_57
+  - first:
+      213: 3250416481950271512
+    second: polygon_58
+  - first:
+      213: 7664528835319391295
+    second: polygon_59
+  - first:
+      213: -587556407904673644
+    second: polygon_60
+  - first:
+      213: -2230930120321818787
+    second: polygon_61
+  - first:
+      213: -4242409135258646744
+    second: polygon_62
+  - first:
+      213: -4921763050277164495
+    second: polygon_63
+  - first:
+      213: -7415534208376133123
+    second: polygon_64
+  - first:
+      213: 4565141002297059192
+    second: polygon_65
+  - first:
+      213: 7318602047283343041
+    second: polygon_66
+  - first:
+      213: 3383699176582460584
+    second: polygon_67
+  - first:
+      213: 5048505729691782225
+    second: polygon_68
+  - first:
+      213: -2807817387676297514
+    second: polygon_69
+  - first:
+      213: 1824815159036546788
+    second: polygon_70
+  - first:
+      213: 3147686907465600591
+    second: polygon_71
+  - first:
+      213: -4099771628096904621
+    second: polygon_72
+  - first:
+      213: -7729638669730061071
+    second: polygon_73
+  - first:
+      213: -479860709459802306
+    second: polygon_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: polygon_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 3098
+        width: 494
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d195df7e2ef04c0800000000000000
+      internalID: -4318984031609217656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_1
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 3392
+        width: 132
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf752b5dce990b00800000000000000
+      internalID: 795341414042271682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_2
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 3342
+        width: 138
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4713d2490824ab190800000000000000
+      internalID: -7945965472532582028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_3
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 3316
+        width: 262
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c7457b8d74ee940800000000000000
+      internalID: 5327274405340150897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_4
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 3236
+        width: 126
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f36f421d8cb8760800000000000000
+      internalID: 7461278008263196416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_5
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 3048
+        width: 132
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b632d95278437480800000000000000
+      internalID: -8902692382410918224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_6
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 3112
+        width: 214
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca2ee844dea007a0800000000000000
+      internalID: -6412933642595718463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_7
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 3262
+        width: 388
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d1d9054d22a1800800000000000000
+      internalID: 583817396978785594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_8
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 2660
+        width: 270
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5160b53e535cf8260800000000000000
+      internalID: 7102111972624893461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_9
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 3166
+        width: 530
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c34ca1a9be2abc0800000000000000
+      internalID: -3773194490676495276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_10
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 2602
+        width: 364
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd023d2aaae1a7580800000000000000
+      internalID: -8828710401281416997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 3074
+        width: 132
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0c0fecc66c81d10800000000000000
+      internalID: 2096643797171618042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_12
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 3082
+        width: 270
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c697a5715e4139540800000000000000
+      internalID: 5013373784365365612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_13
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 3008
+        width: 124
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b7e1a03af79f8c0800000000000000
+      internalID: -3964997658696844397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_14
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 3154
+        width: 136
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edc89ea436c9d4d0800000000000000
+      internalID: -3109236138152768030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_15
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 3104
+        width: 124
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3ea91792db68c90800000000000000
+      internalID: -7167833771216280586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_16
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 3044
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8f22808808afc30800000000000000
+      internalID: 4393965708193757394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_17
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 2854
+        width: 532
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbf66fee719a77d0800000000000000
+      internalID: -2919861434027934780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2886
+        width: 552
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2169a51344b2dfdd0800000000000000
+      internalID: -2450755050333891054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_19
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2940
+        width: 124
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc9dd68b23089880800000000000000
+      internalID: -8604123602610185003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_20
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2946
+        width: 118
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b91d741852a5020800000000000000
+      internalID: 2331216994303580989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_21
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2888
+        width: 266
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a456bfd3cf3c97a0800000000000000
+      internalID: -6369145662504282973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_22
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 2922
+        width: 364
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4918f7ed8eb59a0800000000000000
+      internalID: -6243140416099478363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_23
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 2954
+        width: 132
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a7ac00cd554ab20800000000000000
+      internalID: 3144732843205884434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_24
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 2924
+        width: 128
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fe0ff0e15a49e50800000000000000
+      internalID: 6815253684653453131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_25
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 2952
+        width: 138
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6053bd39ab93dd40800000000000000
+      internalID: 5607997112193339498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_26
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2922
+        width: 244
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa26ca36a169e1f90800000000000000
+      internalID: -6980977332292132182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_27
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2776
+        width: 246
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a003fa46b11e610800000000000000
+      internalID: 1648629057844152915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_28
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 2748
+        width: 246
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34362f6d4af51c4b0800000000000000
+      internalID: -5421947314791881917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_29
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2784
+        width: 134
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa455bcf379575ca0800000000000000
+      internalID: -6028251221516266321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_30
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 2816
+        width: 114
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e219cb9db389b90800000000000000
+      internalID: -7234966995013128679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_31
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 2782
+        width: 148
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0ad60c08799d070800000000000000
+      internalID: 8131697181434159331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_32
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 2798
+        width: 154
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212a176e20abeaa00800000000000000
+      internalID: 769757107945841170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_33
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 2822
+        width: 130
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028fdda436e921120800000000000000
+      internalID: 2383141302127425568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2574
+        width: 484
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a085322454da280800000000000000
+      internalID: -9030485527444845962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_35
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2606
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70bfe2afc31ee1c0800000000000000
+      internalID: -4472615597419548550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_36
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2692
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb79293b9ca0d910800000000000000
+      internalID: 1860176428782943174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_37
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 2680
+        width: 126
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0144b469023fcdc20800000000000000
+      internalID: 3232725953831191568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_38
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 2614
+        width: 364
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03d83c7a3ef02670800000000000000
+      internalID: 8512082822875894542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_39
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 2600
+        width: 384
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ad2fe2a418ea9c0800000000000000
+      internalID: -3914048870523151804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_40
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2628
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3a5e3fdc34893c0800000000000000
+      internalID: -4352654488014314592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_41
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2606
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5609c52c8338bcd0800000000000000
+      internalID: -2542225312628275620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_42
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2600
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa75855ed0a97cc20800000000000000
+      internalID: 3226717042507274159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_43
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2554
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c085fca9c041273d0800000000000000
+      internalID: -3210481539992299508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_44
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 2588
+        width: 126
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f01bf5adf3d028b0800000000000000
+      internalID: -5178906485111189258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_45
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2552
+        width: 146
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c77bb9f044fed190800000000000000
+      internalID: -7935636933475338299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_46
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2508
+        width: 134
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8e85c7f3c06b260800000000000000
+      internalID: 7112886128286951651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_47
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 2474
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1facc12af6e6aa0800000000000000
+      internalID: -6165868097765183004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_48
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 2300
+        width: 364
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e9fe01f8b921170800000000000000
+      internalID: 8147745714633416250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_49
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 2446
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcdb643950aeef10800000000000000
+      internalID: 2300952764624919775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_50
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 2440
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ac964efaeeb3180800000000000000
+      internalID: -9134444979972093345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_51
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 2484
+        width: 376
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb05c43648f575bb0800000000000000
+      internalID: -4947380643436932929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_52
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 2278
+        width: 126
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa55cb84d4420ade0800000000000000
+      internalID: -1324018376095541846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_53
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 2384
+        width: 128
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56258418f828521a0800000000000000
+      internalID: -6834913306603924891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_54
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 2384
+        width: 130
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df76c177ed114960800000000000000
+      internalID: 7584376127352111058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_55
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 2456
+        width: 126
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ed2b1bec8a08970800000000000000
+      internalID: 8755183281306263113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2402
+        width: 554
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a909d65ae5f377a80800000000000000
+      internalID: -8469230898512031590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_57
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2422
+        width: 130
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af19557d529ef6fa0800000000000000
+      internalID: -5805165045921508870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_58
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 2318
+        width: 124
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81888b2a19ccb1d20800000000000000
+      internalID: 3250416481950271512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_59
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 2336
+        width: 126
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3463f70e50ed5a60800000000000000
+      internalID: 7664528835319391295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_60
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 2386
+        width: 134
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490665d5f8498d7f0800000000000000
+      internalID: -587556407904673644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_61
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2344
+        width: 120
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f9f7320e42a01e0800000000000000
+      internalID: -2230930120321818787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_62
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1270
+        width: 530
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82749056e5fef15c0800000000000000
+      internalID: -4242409135258646744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_63
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2026
+        width: 502
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a2697159262bbb0800000000000000
+      internalID: -4921763050277164495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_64
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 2056
+        width: 370
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9abf93deab61990800000000000000
+      internalID: -7415534208376133123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_65
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 1282
+        width: 530
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877ac7fed83aa5f30800000000000000
+      internalID: 4565141002297059192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_66
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 2070
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce25c059c5e09560800000000000000
+      internalID: 7318602047283343041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_67
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 1992
+        width: 242
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4baf6397055fe20800000000000000
+      internalID: 3383699176582460584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1426
+        width: 388
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c8dc88635ef0640800000000000000
+      internalID: 5048505729691782225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_69
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1304
+        width: 66
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6936d56f0a809d0800000000000000
+      internalID: -2807817387676297514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_70
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1296
+        width: 388
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee0f1708bb035910800000000000000
+      internalID: 1824815159036546788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_71
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1284
+        width: 362
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e82afa094deab20800000000000000
+      internalID: 3147686907465600591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_72
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 1288
+        width: 270
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522f0ffc6faa17c0800000000000000
+      internalID: -4099771628096904621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_73
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 1770
+        width: 494
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4ed90559ecab490800000000000000
+      internalID: -7729638669730061071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: polygon_74
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1274
+        width: 494
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e374bf62a313759f0800000000000000
+      internalID: -479860709459802306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      polygon_6: -6412933642595718463
+      polygon_30: -7234966995013128679
+      polygon_41: -2542225312628275620
+      polygon_68: 5048505729691782225
+      polygon_71: 3147686907465600591
+      polygon_0: -4318984031609217656
+      polygon_18: -2450755050333891054
+      polygon_5: -8902692382410918224
+      polygon_74: -479860709459802306
+      polygon_55: 8755183281306263113
+      polygon_31: 8131697181434159331
+      polygon_17: -2919861434027934780
+      polygon_45: -7935636933475338299
+      polygon_67: 3383699176582460584
+      polygon_60: -587556407904673644
+      polygon_8: 7102111972624893461
+      polygon_26: -6980977332292132182
+      polygon_37: 3232725953831191568
+      polygon_20: 2331216994303580989
+      polygon_11: 2096643797171618042
+      polygon_48: 8147745714633416250
+      polygon_54: 7584376127352111058
+      polygon_65: 4565141002297059192
+      polygon_22: -6243140416099478363
+      polygon_49: 2300952764624919775
+      polygon_72: -4099771628096904621
+      polygon_23: 3144732843205884434
+      polygon_36: 1860176428782943174
+      polygon_61: -2230930120321818787
+      polygon_24: 6815253684653453131
+      polygon_42: 3226717042507274159
+      polygon_9: -3773194490676495276
+      polygon_27: 1648629057844152915
+      polygon_2: -7945965472532582028
+      polygon_51: -4947380643436932929
+      polygon_14: -3109236138152768030
+      polygon_58: 3250416481950271512
+      polygon_46: 7112886128286951651
+      polygon_52: -1324018376095541846
+      polygon_70: 1824815159036546788
+      polygon_35: -4472615597419548550
+      polygon_13: -3964997658696844397
+      polygon_3: 5327274405340150897
+      polygon_47: -6165868097765183004
+      polygon_50: -9134444979972093345
+      polygon_34: -9030485527444845962
+      polygon_73: -7729638669730061071
+      polygon_32: 769757107945841170
+      polygon_7: 583817396978785594
+      polygon_33: 2383141302127425568
+      polygon_16: 4393965708193757394
+      polygon_62: -4242409135258646744
+      polygon_12: 5013373784365365612
+      polygon_63: -4921763050277164495
+      polygon_39: -3914048870523151804
+      polygon_1: 795341414042271682
+      polygon_57: -5805165045921508870
+      polygon_21: -6369145662504282973
+      polygon_53: -6834913306603924891
+      polygon_59: 7664528835319391295
+      polygon_64: -7415534208376133123
+      polygon_40: -4352654488014314592
+      polygon_66: 7318602047283343041
+      polygon_43: -3210481539992299508
+      polygon_4: 7461278008263196416
+      polygon_25: 5607997112193339498
+      polygon_10: -8828710401281416997
+      polygon_69: -2807817387676297514
+      polygon_28: -5421947314791881917
+      polygon_19: -8604123602610185003
+      polygon_56: -8469230898512031590
+      polygon_29: -6028251221516266321
+      polygon_38: 8512082822875894542
+      polygon_15: -7167833771216280586
+      polygon_44: -5178906485111189258
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

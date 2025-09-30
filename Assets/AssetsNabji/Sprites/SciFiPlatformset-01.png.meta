@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 0c1c7e4a106fa244cb38438520ab1c12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -758110608630346990
+    second: SciFiPlatformset-01_0
+  - first:
+      213: 7365218215533041241
+    second: SciFiPlatformset-01_1
+  - first:
+      213: -224970412003271611
+    second: SciFiPlatformset-01_2
+  - first:
+      213: -927516358137501274
+    second: SciFiPlatformset-01_3
+  - first:
+      213: 6304448209261311916
+    second: SciFiPlatformset-01_4
+  - first:
+      213: -1482050367901933404
+    second: SciFiPlatformset-01_5
+  - first:
+      213: 6456845405874097540
+    second: SciFiPlatformset-01_6
+  - first:
+      213: -3732066643198292514
+    second: SciFiPlatformset-01_7
+  - first:
+      213: 3131532885111160545
+    second: SciFiPlatformset-01_8
+  - first:
+      213: 2926227433886043520
+    second: SciFiPlatformset-01_9
+  - first:
+      213: 6439447808430206521
+    second: SciFiPlatformset-01_10
+  - first:
+      213: -2153182983008707269
+    second: SciFiPlatformset-01_11
+  - first:
+      213: 7827971878034387190
+    second: SciFiPlatformset-01_12
+  - first:
+      213: 3437424308377758768
+    second: SciFiPlatformset-01_13
+  - first:
+      213: -5572841438874217039
+    second: SciFiPlatformset-01_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 682
+        width: 200
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b02280b66aa75f0800000000000000
+      internalID: -758110608630346990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 682
+        width: 200
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9565516c1f2863660800000000000000
+      internalID: 7365218215533041241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 682
+        width: 200
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c529b2a9eb0ecf0800000000000000
+      internalID: -224970412003271611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 965
+        width: 200
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9a9d559ccc023f0800000000000000
+      internalID: -927516358137501274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_4
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 879
+        width: 138
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca73ed17e36ed7750800000000000000
+      internalID: 6304448209261311916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 834
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0e7f9ea03be6be0800000000000000
+      internalID: -1482050367901933404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 819
+        width: 71
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d0db2dfa25b9950800000000000000
+      internalID: 6456845405874097540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 350
+        width: 253
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddc41e4929053cc0800000000000000
+      internalID: -3732066643198292514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_8
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 350
+        width: 253
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee31834190757b20800000000000000
+      internalID: 3131532885111160545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 538
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dc7c8e85c0c9820800000000000000
+      internalID: 2926227433886043520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 538
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e66230aa38d5950800000000000000
+      internalID: 6439447808430206521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_11
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 453
+        width: 73
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d99592c7b5e12e0800000000000000
+      internalID: -2153182983008707269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_12
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 453
+        width: 106
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0bcfdd2fa82ac60800000000000000
+      internalID: 7827971878034387190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SciFiPlatformset-01_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 453
+        width: 212
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c262b323f24bf20800000000000000
+      internalID: 3437424308377758768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SciFiPlatformset-01_7: -3732066643198292514
+      SciFiPlatformset-01_12: 7827971878034387190
+      SciFiPlatformset-01_1: 7365218215533041241
+      SciFiPlatformset-01_3: -927516358137501274
+      SciFiPlatformset-01_4: 6304448209261311916
+      SciFiPlatformset-01_8: 3131532885111160545
+      SciFiPlatformset-01_2: -224970412003271611
+      SciFiPlatformset-01_0: -758110608630346990
+      SciFiPlatformset-01_5: -1482050367901933404
+      SciFiPlatformset-01_9: 2926227433886043520
+      SciFiPlatformset-01_10: 6439447808430206521
+      SciFiPlatformset-01_6: 6456845405874097540
+      SciFiPlatformset-01_11: -2153182983008707269
+      SciFiPlatformset-01_13: 3437424308377758768
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

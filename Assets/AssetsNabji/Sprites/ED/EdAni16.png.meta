@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: cef442bb6095bf1429f49857c3b22297
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1031849026108236820
+    second: EdAni16_0
+  - first:
+      213: 5434940690262330970
+    second: EdAni16_1
+  - first:
+      213: -5533748075334532389
+    second: EdAni16_2
+  - first:
+      213: 4487659035234724854
+    second: EdAni16_3
+  - first:
+      213: -5084976686006021603
+    second: EdAni16_4
+  - first:
+      213: -7285924032301869137
+    second: EdAni16_5
+  - first:
+      213: -6314049632606930410
+    second: EdAni16_6
+  - first:
+      213: 845064936468205647
+    second: EdAni16_7
+  - first:
+      213: -5183838997283535996
+    second: EdAni16_8
+  - first:
+      213: 1215370507886694597
+    second: EdAni16_9
+  - first:
+      213: 3004721798541564155
+    second: EdAni16_10
+  - first:
+      213: 8274720694434906822
+    second: EdAni16_11
+  - first:
+      213: 4576046816289938863
+    second: EdAni16_12
+  - first:
+      213: 3178800012644776129
+    second: EdAni16_13
+  - first:
+      213: 1507315152093829977
+    second: EdAni16_14
+  - first:
+      213: 7333121639141374146
+    second: EdAni16_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EdAni16_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 20
+        width: 782
+        height: 2008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb5cf817c22ea1f0800000000000000
+      internalID: -1031849026108236820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_1
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 20
+        width: 789
+        height: 2008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e076223c9cc6b40800000000000000
+      internalID: 5434940690262330970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_2
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 20
+        width: 796
+        height: 2015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd20f2dc17d2433b0800000000000000
+      internalID: -5533748075334532389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_3
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 20
+        width: 802
+        height: 2015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbec3cad1e574e30800000000000000
+      internalID: 4487659035234724854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_4
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 20
+        width: 802
+        height: 2015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12d77b35a88e69b0800000000000000
+      internalID: -5084976686006021603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_5
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 20
+        width: 809
+        height: 2015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa75a22f1b233ea90800000000000000
+      internalID: -7285924032301869137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_6
+      rect:
+        serializedVersion: 2
+        x: 5240
+        y: 20
+        width: 809
+        height: 2022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a374aff4dff58a0800000000000000
+      internalID: -6314049632606930410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_7
+      rect:
+        serializedVersion: 2
+        x: 6104
+        y: 20
+        width: 822
+        height: 2022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40535615164abb00800000000000000
+      internalID: 845064936468205647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_8
+      rect:
+        serializedVersion: 2
+        x: 6974
+        y: 20
+        width: 822
+        height: 2022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483091aa5ed4f08b0800000000000000
+      internalID: -5183838997283535996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_9
+      rect:
+        serializedVersion: 2
+        x: 7844
+        y: 20
+        width: 822
+        height: 2022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c09211a90dddd010800000000000000
+      internalID: 1215370507886694597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_10
+      rect:
+        serializedVersion: 2
+        x: 8720
+        y: 20
+        width: 809
+        height: 2022
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf851fa5e8ae2b920800000000000000
+      internalID: 3004721798541564155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_11
+      rect:
+        serializedVersion: 2
+        x: 9590
+        y: 20
+        width: 809
+        height: 2015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2cd5751a6b5d270800000000000000
+      internalID: 8274720694434906822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_12
+      rect:
+        serializedVersion: 2
+        x: 10460
+        y: 20
+        width: 802
+        height: 2015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadd480a552618f30800000000000000
+      internalID: 4576046816289938863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_13
+      rect:
+        serializedVersion: 2
+        x: 11330
+        y: 20
+        width: 802
+        height: 2015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8f2bdf4cd5d1c20800000000000000
+      internalID: 3178800012644776129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_14
+      rect:
+        serializedVersion: 2
+        x: 12200
+        y: 20
+        width: 796
+        height: 2015
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bdd1d052f0be410800000000000000
+      internalID: 1507315152093829977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EdAni16_15
+      rect:
+        serializedVersion: 2
+        x: 13070
+        y: 20
+        width: 789
+        height: 2008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c870cb374b74c560800000000000000
+      internalID: 7333121639141374146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EdAni16_12: 4576046816289938863
+      EdAni16_3: 4487659035234724854
+      EdAni16_8: -5183838997283535996
+      EdAni16_5: -7285924032301869137
+      EdAni16_7: 845064936468205647
+      EdAni16_10: 3004721798541564155
+      EdAni16_13: 3178800012644776129
+      EdAni16_1: 5434940690262330970
+      EdAni16_6: -6314049632606930410
+      EdAni16_11: 8274720694434906822
+      EdAni16_0: -1031849026108236820
+      EdAni16_4: -5084976686006021603
+      EdAni16_9: 1215370507886694597
+      EdAni16_2: -5533748075334532389
+      EdAni16_14: 1507315152093829977
+      EdAni16_15: 7333121639141374146
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 11a7cd6a4e8968948a1572ab74aa333e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8216952112195546291
+    second: FrontGround_0
+  - first:
+      213: -1912378419260198922
+    second: FrontGround_1
+  - first:
+      213: 4035394644985760536
+    second: FrontGround_2
+  - first:
+      213: -6663730163660845157
+    second: FrontGround_3
+  - first:
+      213: -4923536593909892690
+    second: FrontGround_4
+  - first:
+      213: -3319702049300037602
+    second: FrontGround_5
+  - first:
+      213: -4481332604338515526
+    second: FrontGround_6
+  - first:
+      213: 5210400109851161270
+    second: FrontGround_7
+  - first:
+      213: -1139497309408469363
+    second: FrontGround_8
+  - first:
+      213: -8848590865297885848
+    second: FrontGround_9
+  - first:
+      213: 6615780675899997061
+    second: FrontGround_10
+  - first:
+      213: -7463094940354868175
+    second: FrontGround_11
+  - first:
+      213: -1049693536880892085
+    second: FrontGround_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrontGround_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 329
+        width: 104
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcafc7296a780270800000000000000
+      internalID: 8216952112195546291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontGround_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 518
+        width: 76
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff6fdbb5fdd575e0800000000000000
+      internalID: -1912378419260198922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontGround_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 419
+        width: 232
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bc3e69c0a900830800000000000000
+      internalID: 4035394644985760536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontGround_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 369
+        width: 285
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f80fbd8bca583a0800000000000000
+      internalID: -6663730163660845157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontGround_4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 494
+        width: 278
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea93d59cd851cabb0800000000000000
+      internalID: -4923536593909892690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontGround_5
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 492
+        width: 277
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10c55f139c0ee1d0800000000000000
+      internalID: -3319702049300037602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontGround_6
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 344
+        width: 103
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1d60e4dbb1fc1c0800000000000000
+      internalID: -4481332604338515526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontGround_7
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 288
+        width: 214
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2b5554b4f0f4840800000000000000
+      internalID: 5210400109851161270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontGround_8
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 233
+        width: 367
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ed1320c31bf20f0800000000000000
+      internalID: -1139497309408469363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontGround_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 180
+        width: 419
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86537276d7d733580800000000000000
+      internalID: -8848590865297885848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontGround_10
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 190
+        width: 418
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bb9ea0979ffcb50800000000000000
+      internalID: 6615780675899997061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontGround_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 105
+        width: 1645
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c022361b2cd6890800000000000000
+      internalID: -7463094940354868175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrontGround_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 1595
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47e03b2a4dbe61f0800000000000000
+      internalID: -1049693536880892085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FrontGround_7: 5210400109851161270
+      FrontGround_5: -3319702049300037602
+      FrontGround_8: -1139497309408469363
+      FrontGround_10: 6615780675899997061
+      FrontGround_3: -6663730163660845157
+      FrontGround_2: 4035394644985760536
+      FrontGround_0: 8216952112195546291
+      FrontGround_12: -1049693536880892085
+      FrontGround_1: -1912378419260198922
+      FrontGround_6: -4481332604338515526
+      FrontGround_11: -7463094940354868175
+      FrontGround_9: -8848590865297885848
+      FrontGround_4: -4923536593909892690
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1321 @@
+fileFormatVersion: 2
+guid: 94e97a48a9381f546b501d0ef709f477
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: BrightMinerals
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1804
+      y: 7568
+      width: 115
+      height: 169
+    spriteID: a891d69dd27e66b428d96bf3cd2706e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 906, y: 6954}
+  - name: BrightMineral
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4014
+      y: 3903
+      width: 68
+      height: 140
+    spriteID: 7269502b50e639f4298ff6d4615e0841
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3085, y: 3630}
+  - name: DarkMinerals
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1804
+      y: 7383
+      width: 120
+      height: 177
+    spriteID: 5f4bd8eb1a77c5c40b15e39009292a61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1078, y: 6769}
+  - name: DarkMineral
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1537
+      y: 5927
+      width: 65
+      height: 146
+    spriteID: 3f7400f10297eb14a8feaec0d700ad13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 537, y: 5652}
+  - name: ShiningMinerals_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3268
+      width: 1895
+      height: 1080
+    spriteID: 80e88f8b5b19cb94b947243861cae5e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 3268}
+  - name: FirstPlaneMinerals
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4356
+      width: 1856
+      height: 906
+    spriteID: cf574260f05242249ac4f4b74c9596b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -25, y: 4356}
+  - name: HigherFirstPlane
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1410
+      y: 7838
+      width: 447
+      height: 271
+    spriteID: 7d3c2ace76589b349bf4094756389f41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 755, y: 7029}
+  - name: LowerFirstPlane
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1537
+      y: 5270
+      width: 207
+      height: 260
+    spriteID: 16263924d11cd9e40bcc3b8ad13617e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1211, y: 5270}
+  - name: LeftFirstPlane
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2873
+      y: 2815
+      width: 329
+      height: 1080
+    spriteID: 1f6b79c453f421b439d103d3a350f51d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2873, y: 2815}
+  - name: RightFirstPlane
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 2815
+      width: 933
+      height: 1080
+    spriteID: fc6bd57008ad58d4c86a97f5e5b71c52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 945, y: 2815}
+  - name: Cableway_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 905
+      y: 7756
+      width: 411
+      height: 361
+    spriteID: 329f0116b736e0f49bd5c6e9da3b61cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 673, y: 7524}
+  - name: Cableway_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1410
+      y: 7383
+      width: 386
+      height: 447
+    spriteID: c5d048baa6dcac549aaaf434b7024bd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1178, y: 7151}
+  - name: Cable_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1998
+      width: 1330
+      height: 809
+    spriteID: ff8af87e84ab5b24d895e13cf5d7909d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1932, y: 1998}
+  - name: Mist_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1920
+      height: 1080
+    spriteID: 5ead364d80002bd49bb24650af5adcd0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  - name: Cable_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2873
+      y: 3903
+      width: 1133
+      height: 151
+    spriteID: b20f5cd1c7f4f6b4b8218953152260c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2314, y: 3152}
+  - name: Capa 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1537
+      y: 5790
+      width: 81
+      height: 129
+    spriteID: 53c183d6b262b4748898feff560c14ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 512, y: 5134}
+  - name: KartMineral
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1752
+      y: 8117
+      width: 40
+      height: 51
+    spriteID: af121ff18691d1d4583a1fe0d3e02703
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 693, y: 7417}
+  - name: BackgroundProp_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 905
+      y: 7383
+      width: 480
+      height: 365
+    spriteID: 47c11d89962d5db43a958409273e055b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 687, y: 6846}
+  - name: BackgroundProp_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1410
+      y: 8117
+      width: 334
+      height: 70
+    spriteID: a441960ef0db0ed4e8e5019d177b1b75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -45, y: 7799}
+  - name: Lamp_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1537
+      y: 5538
+      width: 162
+      height: 118
+    spriteID: f483cfe0014193b4d98bf63c9729b9d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1140, y: 4736}
+  - name: Lamp_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1537
+      y: 5664
+      width: 162
+      height: 118
+    spriteID: 40ea03533253a0548a998d6fe3193126
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 52, y: 5226}
+  - name: ShiningMinerals_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4
+      width: 1474
+      height: 999
+    spriteID: b59e31418020791488b8eb7096f1badb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1800, y: -77}
+  - name: SecondPlane Minerals
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 1011
+      width: 1454
+      height: 979
+    spriteID: eb243d9e9d7f2734f92f2eb64bb83a54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1783, y: 932}
+  - name: LeftSecondPlane
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 4991
+      width: 829
+      height: 1080
+    spriteID: 5bc31010e8866a045afc33e74fad23e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1932, y: 4991}
+  - name: RightSecondPlane
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1410
+      y: 6295
+      width: 506
+      height: 1080
+    spriteID: f268747391e800449b28c67d051817db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -4, y: 6295}
+  - name: Mist_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1092
+      width: 1920
+      height: 1080
+    spriteID: abfdb15c0b5582746b5fb237e65c663d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 1092}
+  - name: ShiningMinerals_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 7383
+      width: 893
+      height: 563
+    spriteID: d6d73d1c2067eaf4a97547daad4ad4e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -671, y: 7104}
+  - name: ThirdPlaneMinerals
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 7167
+      width: 867
+      height: 911
+    spriteID: 23298ac02c1d5b142a964fe654840aa2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1250, y: 7068}
+  - name: Lamp_1_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1804
+      y: 7745
+      width: 82
+      height: 59
+    spriteID: 54dc73eba3f1ac34c955943d54df1d7e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 511, y: 7082}
+  - name: LeftThirdPlane
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 3903
+      width: 836
+      height: 1080
+    spriteID: b657ffb5e7caaae4c943356dc57cd272
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1932, y: 3903}
+  - name: RightThirdPlane
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 6295
+      width: 1398
+      height: 1080
+    spriteID: 4bc538120460d5a4daadc0244958332a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -518, y: 6295}
+  - name: Mist_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 5270
+      width: 1525
+      height: 1017
+    spriteID: 0bffba0f82f9c004993167f2dd318de3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -143, y: 5270}
+  - name: Charger
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1626
+      y: 5790
+      width: 107
+      height: 89
+    spriteID: 0414d5a7292eea54796a8cf19dba558f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 848, y: 5449}
+  - name: Minerals
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1800
+      y: 8117
+      width: 40
+      height: 46
+    spriteID: bf766d9b2cbd8374d9fe59c5e2267d00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 992, y: 7717}
+  - name: BackgroundProp_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1932
+      y: 6079
+      width: 803
+      height: 1080
+    spriteID: 7c151c4bf36caae4a8599b90a9a6b792
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1143, y: 6079}
+  - name: BackgroundProp_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2776
+      y: 3903
+      width: 78
+      height: 1080
+    spriteID: a5799291b36c4fd4da6b1fc07ebf0386
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1987, y: 3903}
+  - name: Imagen insertada
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 8
+      y: 2184
+      width: 1912
+      height: 1072
+    spriteID: 27193ad0ca4c977408912dee03d1a9d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 2180}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: BrightMinerals
+    spriteName: BrightMinerals
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a891d69dd27e66b428d96bf3cd2706e1
+    layerID: 38
+    mosaicPosition: {x: 1804, y: 7568}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BrightMineral
+    spriteName: BrightMineral
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7269502b50e639f4298ff6d4615e0841
+    layerID: 37
+    mosaicPosition: {x: 4014, y: 3903}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: DarkMinerals
+    spriteName: DarkMinerals
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5f4bd8eb1a77c5c40b15e39009292a61
+    layerID: 36
+    mosaicPosition: {x: 1804, y: 7383}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: DarkMineral
+    spriteName: DarkMineral
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3f7400f10297eb14a8feaec0d700ad13
+    layerID: 35
+    mosaicPosition: {x: 1537, y: 5927}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ShiningMinerals_1
+    spriteName: ShiningMinerals_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 80e88f8b5b19cb94b947243861cae5e4
+    layerID: 34
+    mosaicPosition: {x: 4, y: 3268}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: FirstPlaneMinerals
+    spriteName: FirstPlaneMinerals
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cf574260f05242249ac4f4b74c9596b8
+    layerID: 33
+    mosaicPosition: {x: 4, y: 4356}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: HigherFirstPlane
+    spriteName: HigherFirstPlane
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7d3c2ace76589b349bf4094756389f41
+    layerID: 32
+    mosaicPosition: {x: 1410, y: 7838}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LowerFirstPlane
+    spriteName: LowerFirstPlane
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 16263924d11cd9e40bcc3b8ad13617e1
+    layerID: 31
+    mosaicPosition: {x: 1537, y: 5270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LeftFirstPlane
+    spriteName: LeftFirstPlane
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1f6b79c453f421b439d103d3a350f51d
+    layerID: 30
+    mosaicPosition: {x: 2873, y: 2815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: RightFirstPlane
+    spriteName: RightFirstPlane
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fc6bd57008ad58d4c86a97f5e5b71c52
+    layerID: 29
+    mosaicPosition: {x: 1932, y: 2815}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cableway_1
+    spriteName: Cableway_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 329f0116b736e0f49bd5c6e9da3b61cd
+    layerID: 28
+    mosaicPosition: {x: 905, y: 7756}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cableway_2
+    spriteName: Cableway_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c5d048baa6dcac549aaaf434b7024bd0
+    layerID: 27
+    mosaicPosition: {x: 1410, y: 7383}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cable_1
+    spriteName: Cable_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ff8af87e84ab5b24d895e13cf5d7909d
+    layerID: 26
+    mosaicPosition: {x: 1932, y: 1998}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Mist_1
+    spriteName: Mist_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5ead364d80002bd49bb24650af5adcd0
+    layerID: 25
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cable_2
+    spriteName: Cable_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b20f5cd1c7f4f6b4b8218953152260c0
+    layerID: 24
+    mosaicPosition: {x: 2873, y: 3903}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capa 16
+    spriteName: Capa 16
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 53c183d6b262b4748898feff560c14ff
+    layerID: 23
+    mosaicPosition: {x: 1537, y: 5790}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: KartMineral
+    spriteName: KartMineral
+    isGroup: 0
+    parentIndex: -1
+    spriteID: af121ff18691d1d4583a1fe0d3e02703
+    layerID: 22
+    mosaicPosition: {x: 1752, y: 8117}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BackgroundProp_1
+    spriteName: BackgroundProp_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 47c11d89962d5db43a958409273e055b
+    layerID: 21
+    mosaicPosition: {x: 905, y: 7383}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BackgroundProp_2
+    spriteName: BackgroundProp_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a441960ef0db0ed4e8e5019d177b1b75
+    layerID: 20
+    mosaicPosition: {x: 1410, y: 8117}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Lamp_1
+    spriteName: Lamp_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f483cfe0014193b4d98bf63c9729b9d2
+    layerID: 19
+    mosaicPosition: {x: 1537, y: 5538}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Lamp_2
+    spriteName: Lamp_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 40ea03533253a0548a998d6fe3193126
+    layerID: 18
+    mosaicPosition: {x: 1537, y: 5664}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ShiningMinerals_2
+    spriteName: ShiningMinerals_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b59e31418020791488b8eb7096f1badb
+    layerID: 17
+    mosaicPosition: {x: 1932, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: SecondPlane Minerals
+    spriteName: SecondPlane Minerals
+    isGroup: 0
+    parentIndex: -1
+    spriteID: eb243d9e9d7f2734f92f2eb64bb83a54
+    layerID: 16
+    mosaicPosition: {x: 1932, y: 1011}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LeftSecondPlane
+    spriteName: LeftSecondPlane
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5bc31010e8866a045afc33e74fad23e1
+    layerID: 15
+    mosaicPosition: {x: 1932, y: 4991}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: RightSecondPlane
+    spriteName: RightSecondPlane
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f268747391e800449b28c67d051817db
+    layerID: 14
+    mosaicPosition: {x: 1410, y: 6295}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Mist_2
+    spriteName: Mist_2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: abfdb15c0b5582746b5fb237e65c663d
+    layerID: 13
+    mosaicPosition: {x: 4, y: 1092}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ShiningMinerals_3
+    spriteName: ShiningMinerals_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d6d73d1c2067eaf4a97547daad4ad4e5
+    layerID: 12
+    mosaicPosition: {x: 4, y: 7383}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: ThirdPlaneMinerals
+    spriteName: ThirdPlaneMinerals
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 23298ac02c1d5b142a964fe654840aa2
+    layerID: 11
+    mosaicPosition: {x: 1932, y: 7167}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Lamp_1
+    spriteName: Lamp_1_1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 54dc73eba3f1ac34c955943d54df1d7e
+    layerID: 10
+    mosaicPosition: {x: 1804, y: 7745}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: LeftThirdPlane
+    spriteName: LeftThirdPlane
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b657ffb5e7caaae4c943356dc57cd272
+    layerID: 9
+    mosaicPosition: {x: 1932, y: 3903}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: RightThirdPlane
+    spriteName: RightThirdPlane
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4bc538120460d5a4daadc0244958332a
+    layerID: 8
+    mosaicPosition: {x: 4, y: 6295}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Mist_3
+    spriteName: Mist_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0bffba0f82f9c004993167f2dd318de3
+    layerID: 7
+    mosaicPosition: {x: 4, y: 5270}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Charger
+    spriteName: Charger
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0414d5a7292eea54796a8cf19dba558f
+    layerID: 6
+    mosaicPosition: {x: 1626, y: 5790}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Minerals
+    spriteName: Minerals
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bf766d9b2cbd8374d9fe59c5e2267d00
+    layerID: 5
+    mosaicPosition: {x: 1800, y: 8117}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BackgroundProp_3
+    spriteName: BackgroundProp_3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7c151c4bf36caae4a8599b90a9a6b792
+    layerID: 4
+    mosaicPosition: {x: 1932, y: 6079}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: BackgroundProp_4
+    spriteName: BackgroundProp_4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a5799291b36c4fd4da6b1fc07ebf0386
+    layerID: 3
+    mosaicPosition: {x: 2776, y: 3903}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Imagen insertada
+    spriteName: Imagen insertada
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 27193ad0ca4c977408912dee03d1a9d7
+    layerID: 2
+    mosaicPosition: {x: 4, y: 2180}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Fondo
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 1
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: NabhiBackgroundLevel_1.3Props Texture
+  prefabAssetName: NabhiBackgroundLevel_1.3Props Prefab
+  spriteLibAssetName: NabhiBackgroundLevel_1.3Props Sprite Lib
+  skeletonAssetName: 
+  secondarySpriteTextures: []

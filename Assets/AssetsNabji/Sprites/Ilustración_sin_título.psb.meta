@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 3079c399cf5eb88469312de0b76a821d
+ScriptedImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2237416436589368271
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_0"
+  - first:
+      213: 6278237510385872132
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_1"
+  - first:
+      213: -1080650465349548770
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_2"
+  - first:
+      213: -379871159778948699
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_3"
+  - first:
+      213: -8200047749446818625
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_4"
+  - first:
+      213: 2322302034217667247
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_5"
+  - first:
+      213: 6449617025601863068
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_6"
+  - first:
+      213: 8773548651428180629
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_7"
+  - first:
+      213: -5480934106500814784
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_8"
+  - first:
+      213: -371904498040304514
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_9"
+  - first:
+      213: -2595047470255334550
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_10"
+  - first:
+      213: 277293720200264021
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_11"
+  - first:
+      213: 3103579026099573996
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_12"
+  - first:
+      213: 4231846599242602733
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_13"
+  - first:
+      213: 1894465777020580518
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_14"
+  - first:
+      213: 8435319982157281912
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_15"
+  - first:
+      213: 3386661077979661054
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_16"
+  - first:
+      213: -2263372636827723278
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_17"
+  - first:
+      213: -7011302396701512456
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_18"
+  - first:
+      213: -4466793340645867304
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_19"
+  - first:
+      213: -4248553492629393738
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_20"
+  - first:
+      213: 2750601750470613295
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_21"
+  - first:
+      213: 5079333528450347926
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_22"
+  - first:
+      213: 3855532757046664241
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_23"
+  - first:
+      213: 5434392198085112836
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_24"
+  - first:
+      213: -5004212100992038418
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_25"
+  - first:
+      213: -6825130863863232451
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_26"
+  - first:
+      213: 5160733968411492942
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_27"
+  - first:
+      213: -4175535173603840388
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_28"
+  - first:
+      213: -2936045210728883901
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_29"
+  - first:
+      213: 8817079676162829512
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_30"
+  - first:
+      213: -6118442430845250283
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_31"
+  - first:
+      213: -2439368407599672749
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_32"
+  - first:
+      213: -694290720425590061
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_33"
+  - first:
+      213: 3103579026099573996
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_12"
+  - first:
+      213: -1080650465349548770
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_2"
+  - first:
+      213: 4231846599242602733
+    second: "Ilustraci\xF3n_sin_t\xEDtulo_13"
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Light1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 2683
+      width: 765
+      height: 1405
+    spriteID: 9390ade71d6585c4eb9ee0d9e5f73c1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2484, y: 1119}
+  - name: Eyes
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4881
+      y: 2683
+      width: 177
+      height: 587
+    spriteID: 63394d681a57cca4381fd5b672a1d426
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3008, y: 577}
+  - name: Girl
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5206
+      y: 4
+      width: 675
+      height: 1485
+    spriteID: fe1c26768d4c3c54486cfb3ff142eb2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3528, y: -1355}
+  - name: "Girl\u2019sHair"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5206
+      y: 3363
+      width: 539
+      height: 508
+    spriteID: 24d509c9e4176714bba102efc19b99a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3472, y: 1066}
+  - name: Bumbles
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5889
+      y: 4
+      width: 641
+      height: 1453
+    spriteID: daa6b4682c86bd0489fbe87f8cc39866
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4199, y: -1368}
+  - name: InternalLight
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 5206
+      y: 1497
+      width: 535
+      height: 1858
+    spriteID: 209e0fe245a7d09408487a257b3a247b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 3480, y: 265}
+  - name: Capsule2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4108
+      y: 4
+      width: 1090
+      height: 2671
+    spriteID: b1d63fedfac4f914685b0d785f0ac876
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2653, y: -811}
+  - name: Fondo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 4096
+      height: 4096
+    spriteID: 94a18ebadcdb5ce458181951e68eaa7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Light1
+    spriteName: Light1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9390ade71d6585c4eb9ee0d9e5f73c1e
+    layerID: 9
+    mosaicPosition: {x: 4108, y: 2683}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Eyes
+    spriteName: Eyes
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 63394d681a57cca4381fd5b672a1d426
+    layerID: 8
+    mosaicPosition: {x: 4881, y: 2683}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Girl
+    spriteName: Girl
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fe1c26768d4c3c54486cfb3ff142eb2e
+    layerID: 7
+    mosaicPosition: {x: 5206, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Girl\u2019sHair"
+    spriteName: "Girl\u2019sHair"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 24d509c9e4176714bba102efc19b99a8
+    layerID: 6
+    mosaicPosition: {x: 5206, y: 3363}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bumbles
+    spriteName: Bumbles
+    isGroup: 0
+    parentIndex: -1
+    spriteID: daa6b4682c86bd0489fbe87f8cc39866
+    layerID: 5
+    mosaicPosition: {x: 5889, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: InternalLight
+    spriteName: InternalLight
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 209e0fe245a7d09408487a257b3a247b
+    layerID: 4
+    mosaicPosition: {x: 5206, y: 1497}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capsule2
+    spriteName: Capsule2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b1d63fedfac4f914685b0d785f0ac876
+    layerID: 3
+    mosaicPosition: {x: 4108, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Capsule
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 2
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Fondo
+    spriteName: Fondo
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 94a18ebadcdb5ce458181951e68eaa7d
+    layerID: 1
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: "Ilustraci\xF3n_sin_t\xEDtulo Texture"
+  prefabAssetName: "Ilustraci\xF3n_sin_t\xEDtulo Prefab"
+  spriteLibAssetName: "Ilustraci\xF3n_sin_t\xEDtulo Sprite Lib"
+  skeletonAssetName: 
+  secondarySpriteTextures: []
