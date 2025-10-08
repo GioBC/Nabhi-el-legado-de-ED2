@@ -6,7 +6,9 @@
       "Bash(do if [ $#ile -gt 200 ])",
       "Bash(then echo \"$file (length: $#ile)\")",
       "Bash(fi)",
-      "Bash(done)"
+      "Bash(done)",
+      "WebSearch",
+      "WebFetch(domain:ugamestudio.com)"
     ],
     "deny": [],
     "ask": []
