@@ -132,11 +132,13 @@ ScriptedImporter:
     convertToNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
     isReadable: 0
     streamingMipmaps: 1
     streamingMipmapsPriority: 0
     vTOnly: 0
-    ignoreMasterTextureLimit: 0
+    ignoreMipmapLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -158,6 +160,7 @@ ScriptedImporter:
     flipbookRows: 0
     flipbookColumns: 0
     ignorePngGamma: 0
+    cookieMode: 0
     filterMode: 0
     aniso: 1
     mipBias: 0
@@ -198,8 +201,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: Light1
@@ -221,8 +224,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    parentGroupIndex: -1
     uvTransform: {x: 2484, y: 1119}
+    spritePosition: {x: 1624, y: 1564}
   - name: Eyes
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -242,8 +245,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    parentGroupIndex: -1
     uvTransform: {x: 3008, y: 577}
+    spritePosition: {x: 1873, y: 2106}
   - name: Girl
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -263,8 +266,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    parentGroupIndex: -1
     uvTransform: {x: 3528, y: -1355}
+    spritePosition: {x: 1678, y: 1359}
   - name: "Girl\u2019sHair"
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -284,8 +287,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    parentGroupIndex: -1
     uvTransform: {x: 3472, y: 1066}
+    spritePosition: {x: 1734, y: 2297}
   - name: Bumbles
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -305,8 +308,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    parentGroupIndex: -1
     uvTransform: {x: 4199, y: -1368}
+    spritePosition: {x: 1690, y: 1372}
   - name: InternalLight
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -326,8 +329,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    parentGroupIndex: -1
     uvTransform: {x: 3480, y: 265}
+    spritePosition: {x: 1726, y: 1232}
   - name: Capsule2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -347,8 +350,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    parentGroupIndex: -1
     uvTransform: {x: 2653, y: -811}
+    spritePosition: {x: 1455, y: 815}
   - name: Fondo
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -368,13 +371,14 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    parentGroupIndex: -1
     uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 0, y: 0}
   characterData:
     bones: []
     parts: []
     dimension: {x: 0, y: 0}
     characterGroups: []
+    pivot: {x: 0, y: 0}
     boneReadOnly: 0
   sharedRigSpriteImportData: []
   sharedRigCharacterData:
@@ -382,6 +386,7 @@ ScriptedImporter:
     parts: []
     dimension: {x: 0, y: 0}
     characterGroups: []
+    pivot: {x: 0, y: 0}
     boneReadOnly: 0
   platformSettings: []
   mosaicLayers: 1
@@ -394,6 +399,10 @@ ScriptedImporter:
   paperDollMode: 0
   keepDupilcateSpriteName: 0
   skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
   spriteCategoryList:
     categories: []
   spritePackingTag: 
@@ -474,7 +483,7 @@ ScriptedImporter:
     spriteName: 
     isGroup: 0
     parentIndex: -1
-    spriteID: 00000000000000000000000000000000
+    spriteID: 55be61de1b7ce0b44920b01b628a8d45
     layerID: 2
     mosaicPosition: {x: 0, y: 0}
     flatten: 0
@@ -492,6 +501,9 @@ ScriptedImporter:
     isVisible: 1
   sharedRigPSDLayers: []
   pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
   generateGOHierarchy: 0
   textureAssetName: "Ilustraci\xF3n_sin_t\xEDtulo Texture"
   prefabAssetName: "Ilustraci\xF3n_sin_t\xEDtulo Prefab"

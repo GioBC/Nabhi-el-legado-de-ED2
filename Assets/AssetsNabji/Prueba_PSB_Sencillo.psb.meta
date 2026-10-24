@@ -21,11 +21,13 @@ ScriptedImporter:
     convertToNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
     isReadable: 0
     streamingMipmaps: 1
     streamingMipmapsPriority: 0
     vTOnly: 0
-    ignoreMasterTextureLimit: 0
+    ignoreMipmapLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -47,6 +49,7 @@ ScriptedImporter:
     flipbookRows: 0
     flipbookColumns: 0
     ignorePngGamma: 0
+    cookieMode: 0
     filterMode: 0
     aniso: 1
     mipBias: 0
@@ -87,8 +90,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: Glow_brazalete_der
@@ -548,8 +551,8 @@ ScriptedImporter:
     - {x: 37, y: 38}
     - {x: 38, y: 20}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 1060, y: -223}
+    uvTransform: {x: 1509, y: 911}
+    spritePosition: {x: 449, y: 1134}
   - name: difuminado_brazalete_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1146,8 +1149,8 @@ ScriptedImporter:
     - {x: 41, y: 29}
     - {x: 11, y: 52}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 934, y: -85}
+    uvTransform: {x: 1368, y: 1035}
+    spritePosition: {x: 434, y: 1120}
   - name: brazalete_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1462,8 +1465,8 @@ ScriptedImporter:
     - {x: 24, y: 25}
     - {x: 25, y: 0}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 927, y: -205}
+    uvTransform: {x: 1368, y: 911}
+    spritePosition: {x: 441, y: 1116}
   - name: Glow_antebrazo_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2515,8 +2518,8 @@ ScriptedImporter:
     - {x: 74, y: 89}
     - {x: 52, y: 90}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 652, y: -488}
+    uvTransform: {x: 1081, y: 587}
+    spritePosition: {x: 429, y: 1075}
   - name: difuminado_antebrazo_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3225,8 +3228,8 @@ ScriptedImporter:
     - {x: 59, y: 60}
     - {x: 60, y: 29}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 447, y: -1057}
+    uvTransform: {x: 861, y: 4}
+    spritePosition: {x: 414, y: 1061}
   - name: Anterazo_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3629,8 +3632,8 @@ ScriptedImporter:
     - {x: 25, y: 24}
     - {x: 0, y: 25}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 233, y: -1045}
+    uvTransform: {x: 657, y: 4}
+    spritePosition: {x: 424, y: 1049}
   - name: Mano_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3944,8 +3947,8 @@ ScriptedImporter:
     - {x: 24, y: 23}
     - {x: 0, y: 24}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 1019, y: -113}
+    uvTransform: {x: 1505, y: 653}
+    spritePosition: {x: 486, y: 766}
   - name: Glow_brazo_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4434,8 +4437,8 @@ ScriptedImporter:
     - {x: 39, y: 40}
     - {x: 40, y: 20}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 829, y: -457}
+    uvTransform: {x: 1277, y: 442}
+    spritePosition: {x: 448, y: 899}
   - name: difuminado_brazo_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5179,8 +5182,8 @@ ScriptedImporter:
     - {x: 63, y: 64}
     - {x: 64, y: 0}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 103, y: 197}
+    uvTransform: {x: 536, y: 1082}
+    spritePosition: {x: 433, y: 885}
   - name: Brazo_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5684,8 +5687,8 @@ ScriptedImporter:
     - {x: 27, y: 26}
     - {x: 0, y: 27}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 114, y: -58}
+    uvTransform: {x: 536, y: 765}
+    spritePosition: {x: 422, y: 823}
   - name: glow_muslo_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -6051,8 +6054,8 @@ ScriptedImporter:
     - {x: 27, y: 28}
     - {x: 28, y: 19}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 606, y: 1129}
+    uvTransform: {x: 1217, y: 1737}
+    spritePosition: {x: 611, y: 608}
   - name: difuminadi_pierna_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -6398,8 +6401,8 @@ ScriptedImporter:
     - {x: 26, y: 27}
     - {x: 27, y: 18}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 485, y: 811}
+    uvTransform: {x: 1081, y: 1406}
+    spritePosition: {x: 596, y: 595}
   - name: Muslo_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -6844,8 +6847,8 @@ ScriptedImporter:
     - {x: 0, y: 26}
     - {x: 36, y: 16}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 607, y: 311}
+    uvTransform: {x: 1217, y: 831}
+    spritePosition: {x: 610, y: 520}
   - name: Glow_pie_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -7827,8 +7830,8 @@ ScriptedImporter:
     - {x: 83, y: 4}
     - {x: 30, y: 84}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 782, y: 220}
+    uvTransform: {x: 1368, y: 369}
+    spritePosition: {x: 586, y: 149}
   - name: difuminado_pie_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -8491,8 +8494,8 @@ ScriptedImporter:
     - {x: 25, y: 54}
     - {x: 55, y: 45}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 795, y: -132}
+    uvTransform: {x: 1368, y: 4}
+    spritePosition: {x: 573, y: 136}
   - name: Pie_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -8862,8 +8865,8 @@ ScriptedImporter:
     - {x: 25, y: 24}
     - {x: 0, y: 25}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 496, y: -146}
+    uvTransform: {x: 1081, y: 4}
+    spritePosition: {x: 585, y: 150}
   - name: glow_pierna_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -10061,8 +10064,8 @@ ScriptedImporter:
     - {x: 105, y: 82}
     - {x: 106, y: 39}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 487, y: 1417}
+    uvTransform: {x: 1081, y: 1706}
+    spritePosition: {x: 594, y: 289}
   - name: difuminado_pierna_Der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -11120,8 +11123,8 @@ ScriptedImporter:
     - {x: 92, y: 15}
     - {x: 10, y: 93}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -348, y: 1503}
+    uvTransform: {x: 232, y: 1778}
+    spritePosition: {x: 580, y: 275}
   - name: Pierna_der
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -11534,8 +11537,8 @@ ScriptedImporter:
     - {x: 26, y: 25}
     - {x: 0, y: 26}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -206, y: 146}
+    uvTransform: {x: 379, y: 314}
+    spritePosition: {x: 585, y: 168}
   - name: Glow_cinturon
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -11869,8 +11872,8 @@ ScriptedImporter:
     - {x: 25, y: 24}
     - {x: 0, y: 25}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 516, y: -221}
+    uvTransform: {x: 1270, y: 676}
+    spritePosition: {x: 754, y: 897}
   - name: Difuminado_cinturon
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -12272,8 +12275,8 @@ ScriptedImporter:
     - {x: 32, y: 31}
     - {x: 0, y: 32}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 540, y: -535}
+    uvTransform: {x: 1277, y: 346}
+    spritePosition: {x: 737, y: 881}
   - name: Cinturon
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -12678,8 +12681,8 @@ ScriptedImporter:
     - {x: 26, y: 25}
     - {x: 0, y: 26}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 758, y: -415}
+    uvTransform: {x: 1368, y: 469}
+    spritePosition: {x: 610, y: 884}
   - name: Glow_muslo_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -13056,8 +13059,8 @@ ScriptedImporter:
     - {x: 28, y: 29}
     - {x: 29, y: 19}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 466, y: 857}
+    uvTransform: {x: 1217, y: 1463}
+    spritePosition: {x: 751, y: 606}
   - name: difmuminado_muslo_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -13899,8 +13902,8 @@ ScriptedImporter:
     - {x: 72, y: 8}
     - {x: 73, y: 11}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 343, y: 513}
+    uvTransform: {x: 1081, y: 1105}
+    spritePosition: {x: 738, y: 592}
   - name: Muslo_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -14352,8 +14355,8 @@ ScriptedImporter:
     - {x: 0, y: 25}
     - {x: 15, y: 35}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -208, y: -202}
+    uvTransform: {x: 536, y: 314}
+    spritePosition: {x: 744, y: 516}
   - name: Glow_pie_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -15380,8 +15383,8 @@ ScriptedImporter:
     - {x: 33, y: 86}
     - {x: 87, y: 66}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 619, y: 116}
+    uvTransform: {x: 1368, y: 268}
+    spritePosition: {x: 749, y: 152}
   - name: difuminado_pie_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -16008,8 +16011,8 @@ ScriptedImporter:
     - {x: 11, y: 49}
     - {x: 45, y: 50}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 633, y: -2}
+    uvTransform: {x: 1368, y: 136}
+    spritePosition: {x: 735, y: 138}
   - name: Pie_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -16409,8 +16412,8 @@ ScriptedImporter:
     - {x: 26, y: 25}
     - {x: 0, y: 26}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 334, y: 23}
+    uvTransform: {x: 1081, y: 175}
+    spritePosition: {x: 747, y: 152}
   - name: glow_pierna_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -17670,8 +17673,8 @@ ScriptedImporter:
     - {x: 111, y: 72}
     - {x: 19, y: 112}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 462, y: 932}
+    uvTransform: {x: 1217, y: 1219}
+    spritePosition: {x: 755, y: 287}
   - name: difuminado_pierna_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -18243,8 +18246,8 @@ ScriptedImporter:
     - {x: 48, y: 22}
     - {x: 49, y: 15}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 340, y: 558}
+    uvTransform: {x: 1081, y: 831}
+    spritePosition: {x: 741, y: 273}
   - name: Pierna_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -18656,8 +18659,8 @@ ScriptedImporter:
     - {x: 27, y: 26}
     - {x: 0, y: 27}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -369, y: 596}
+    uvTransform: {x: 379, y: 765}
+    spritePosition: {x: 748, y: 169}
   - name: Cabeza
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -19098,8 +19101,8 @@ ScriptedImporter:
     - {x: 0, y: 32}
     - {x: 35, y: 20}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 413, y: -1005}
+    uvTransform: {x: 1081, y: 346}
+    spritePosition: {x: 668, y: 1351}
   - name: Pelvis
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -19554,8 +19557,8 @@ ScriptedImporter:
     - {x: 27, y: 26}
     - {x: 0, y: 27}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 757, y: -258}
+    uvTransform: {x: 1368, y: 560}
+    spritePosition: {x: 611, y: 818}
   - name: Glow_pechera
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -20968,8 +20971,8 @@ ScriptedImporter:
     - {x: 123, y: 43}
     - {x: 102, y: 124}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -261, y: 175}
+    uvTransform: {x: 379, y: 1216}
+    spritePosition: {x: 640, y: 1041}
   - name: difuminado_pechera
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -22481,8 +22484,8 @@ ScriptedImporter:
     - {x: 132, y: 39}
     - {x: 133, y: 51}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -247, y: -1022}
+    uvTransform: {x: 379, y: 4}
+    spritePosition: {x: 626, y: 1026}
   - name: Pechera
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -23213,8 +23216,8 @@ ScriptedImporter:
     - {x: 44, y: 0}
     - {x: 5, y: 6}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -569, y: 406}
+    uvTransform: {x: 4, y: 1423}
+    spritePosition: {x: 573, y: 1017}
   - name: Glow_torso
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -24070,8 +24073,8 @@ ScriptedImporter:
     - {x: 71, y: 16}
     - {x: 45, y: 72}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -550, y: 35}
+    uvTransform: {x: 4, y: 991}
+    spritePosition: {x: 554, y: 956}
   - name: difuminado_torso
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -24926,8 +24929,8 @@ ScriptedImporter:
     - {x: 31, y: 69}
     - {x: 70, y: 40}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -537, y: -412}
+    uvTransform: {x: 4, y: 529}
+    spritePosition: {x: 541, y: 941}
   - name: Torso
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -25554,8 +25557,8 @@ ScriptedImporter:
     - {x: 33, y: 32}
     - {x: 33, y: 0}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -510, y: -923}
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 514, y: 927}
   - name: glow_brazalete_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -26013,8 +26016,8 @@ ScriptedImporter:
     - {x: 37, y: 38}
     - {x: 38, y: 20}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 667, y: -346}
+    uvTransform: {x: 1513, y: 787}
+    spritePosition: {x: 846, y: 1133}
   - name: difuminado_brazalete_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -26579,8 +26582,8 @@ ScriptedImporter:
     - {x: 48, y: 21}
     - {x: 49, y: 26}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 537, y: -332}
+    uvTransform: {x: 1368, y: 787}
+    spritePosition: {x: 831, y: 1119}
   - name: brazalete_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -26873,8 +26876,8 @@ ScriptedImporter:
     - {x: 22, y: 23}
     - {x: 23, y: 0}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 534, y: -460}
+    uvTransform: {x: 1368, y: 653}
+    spritePosition: {x: 834, y: 1113}
   - name: Glow_antebrazo_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -27374,8 +27377,8 @@ ScriptedImporter:
     - {x: 40, y: 41}
     - {x: 41, y: 20}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -419, y: 736}
+    uvTransform: {x: 379, y: 1796}
+    spritePosition: {x: 798, y: 1060}
   - name: difuminado_antebrazo_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -27895,8 +27898,8 @@ ScriptedImporter:
     - {x: 41, y: 42}
     - {x: 42, y: 21}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -779, y: 733}
+    uvTransform: {x: 4, y: 1778}
+    spritePosition: {x: 783, y: 1045}
   - name: Antebrazo_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -28170,8 +28173,8 @@ ScriptedImporter:
     - {x: 5, y: 4}
     - {x: 3, y: 4}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -400, y: 437}
+    uvTransform: {x: 379, y: 1495}
+    spritePosition: {x: 779, y: 1058}
   - name: Mano_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -28550,8 +28553,8 @@ ScriptedImporter:
     - {x: 29, y: 28}
     - {x: 0, y: 29}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 78, y: -490}
+    uvTransform: {x: 1270, y: 587}
+    spritePosition: {x: 1192, y: 1077}
   - name: Glow_brazo_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -29929,8 +29932,8 @@ ScriptedImporter:
     - {x: 19, y: 124}
     - {x: 107, y: 125}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 322, y: 88}
+    uvTransform: {x: 1368, y: 1151}
+    spritePosition: {x: 1046, y: 1063}
   - name: difuminado_brazo_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -31042,8 +31045,8 @@ ScriptedImporter:
     - {x: 19, y: 99}
     - {x: 13, y: 100}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 48, y: 902}
+    uvTransform: {x: 1081, y: 1949}
+    spritePosition: {x: 1033, y: 1047}
   - name: Brazo_iz
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -31507,8 +31510,8 @@ ScriptedImporter:
     - {x: 26, y: 25}
     - {x: 0, y: 26}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 734, y: -1047}
+    uvTransform: {x: 1640, y: 4}
+    spritePosition: {x: 906, y: 1051}
   characterData:
     bones:
     - name: Root
@@ -32117,6 +32120,7 @@ ScriptedImporter:
       order: 0
     dimension: {x: 0, y: 0}
     characterGroups: []
+    pivot: {x: 0, y: 0}
     boneReadOnly: 0
   sharedRigSpriteImportData: []
   sharedRigCharacterData:
@@ -32124,10 +32128,12 @@ ScriptedImporter:
     parts: []
     dimension: {x: 0, y: 0}
     characterGroups: []
+    pivot: {x: 0, y: 0}
     boneReadOnly: 0
   platformSettings:
   - name: Default
     overridden: 1
+    ignorePlatformSupport: 0
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -32139,6 +32145,7 @@ ScriptedImporter:
     androidETC2FallbackOverride: 0
   - name: DefaultTexturePlatform
     overridden: 0
+    ignorePlatformSupport: 0
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -32150,6 +32157,7 @@ ScriptedImporter:
     androidETC2FallbackOverride: 0
   - name: Standalone
     overridden: 0
+    ignorePlatformSupport: 0
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -32161,6 +32169,7 @@ ScriptedImporter:
     androidETC2FallbackOverride: 0
   - name: Android
     overridden: 0
+    ignorePlatformSupport: 0
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -32180,6 +32189,10 @@ ScriptedImporter:
   paperDollMode: 0
   keepDupilcateSpriteName: 0
   skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
   spriteCategoryList:
     categories: []
   spritePackingTag: 
@@ -33178,6 +33191,9 @@ ScriptedImporter:
     isVisible: 1
   sharedRigPSDLayers: []
   pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
   generateGOHierarchy: 0
   textureAssetName: Prueba_PSB_PSB Texture
   prefabAssetName: Prueba_PSB_PSB Prefab

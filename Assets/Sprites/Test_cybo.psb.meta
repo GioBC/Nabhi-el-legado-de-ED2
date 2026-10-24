@@ -21,11 +21,13 @@ ScriptedImporter:
     convertToNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
     isReadable: 0
     streamingMipmaps: 1
     streamingMipmapsPriority: 0
     vTOnly: 0
-    ignoreMasterTextureLimit: 0
+    ignoreMipmapLimit: 0
     nPOTScale: 1
     sRGBTexture: 1
     spriteMode: 2
@@ -47,6 +49,7 @@ ScriptedImporter:
     flipbookRows: 0
     flipbookColumns: 0
     ignorePngGamma: 0
+    cookieMode: 0
     filterMode: 1
     aniso: 1
     mipBias: 0
@@ -87,8 +90,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    parentGroupIndex: -1
     uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
   mosaicSpriteImportData: []
   rigSpriteImportData:
   - name: Capa 11
@@ -416,8 +419,8 @@ ScriptedImporter:
     - {x: 24, y: 25}
     - {x: 25, y: 26}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 345, y: 367}
+    uvTransform: {x: 865, y: 1756}
+    spritePosition: {x: 520, y: 1389}
   - name: HeadImplant
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -820,8 +823,8 @@ ScriptedImporter:
     - {x: 31, y: 32}
     - {x: 32, y: 33}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 398, y: -878}
+    uvTransform: {x: 842, y: 545}
+    spritePosition: {x: 444, y: 1423}
   - name: Capa 10
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1158,8 +1161,8 @@ ScriptedImporter:
     - {x: 25, y: 26}
     - {x: 26, y: 27}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -80, y: 328}
+    uvTransform: {x: 371, y: 1742}
+    spritePosition: {x: 451, y: 1414}
   - name: GuardShoulder
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1505,8 +1508,8 @@ ScriptedImporter:
     - {x: 25, y: 26}
     - {x: 26, y: 27}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 607, y: -98}
+    uvTransform: {x: 788, y: 1144}
+    spritePosition: {x: 181, y: 1242}
   - name: Capa 9
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -1863,8 +1866,8 @@ ScriptedImporter:
     - {x: 26, y: 27}
     - {x: 27, y: 28}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -109, y: 627}
+    uvTransform: {x: 4, y: 1677}
+    spritePosition: {x: 113, y: 1050}
   - name: BackGuardShoulder
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2177,8 +2180,8 @@ ScriptedImporter:
     - {x: 22, y: 23}
     - {x: 23, y: 24}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 603, y: 92}
+    uvTransform: {x: 788, y: 1338}
+    spritePosition: {x: 185, y: 1246}
   - name: Fingers
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -2768,8 +2771,8 @@ ScriptedImporter:
     - {x: 48, y: 49}
     - {x: 49, y: 50}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 755, y: -648}
+    uvTransform: {x: 755, y: 4}
+    spritePosition: {x: 0, y: 652}
   - name: Hand
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3104,8 +3107,8 @@ ScriptedImporter:
     - {x: 24, y: 25}
     - {x: 25, y: 26}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 559, y: 1162}
+    uvTransform: {x: 592, y: 1893}
+    spritePosition: {x: 33, y: 731}
   - name: Arm
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3475,8 +3478,8 @@ ScriptedImporter:
     - {x: 28, y: 29}
     - {x: 29, y: 30}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 575, y: 334}
+    uvTransform: {x: 592, y: 1144}
+    spritePosition: {x: 17, y: 810}
   - name: Capa 8
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -3901,8 +3904,8 @@ ScriptedImporter:
     - {x: 33, y: 34}
     - {x: 34, y: 35}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -271, y: -803}
+    uvTransform: {x: 4, y: 292}
+    spritePosition: {x: 275, y: 1095}
   - name: Capa 7
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4195,8 +4198,8 @@ ScriptedImporter:
     - {x: 21, y: 22}
     - {x: 22, y: 23}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 432, y: 174}
+    uvTransform: {x: 877, y: 1512}
+    spritePosition: {x: 445, y: 1338}
   - name: Cable
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4566,8 +4569,8 @@ ScriptedImporter:
     - {x: 28, y: 29}
     - {x: 29, y: 30}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 463, y: -1181}
+    uvTransform: {x: 887, y: 292}
+    spritePosition: {x: 424, y: 1473}
   - name: Capa 6
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -4902,8 +4905,8 @@ ScriptedImporter:
     - {x: 24, y: 25}
     - {x: 25, y: 26}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 583, y: 973}
+    uvTransform: {x: 833, y: 974}
+    spritePosition: {x: 250, y: 1}
   - name: Capa 5
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5240,8 +5243,8 @@ ScriptedImporter:
     - {x: 25, y: 26}
     - {x: 26, y: 27}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 482, y: 838}
+    uvTransform: {x: 833, y: 839}
+    spritePosition: {x: 351, y: 1}
   - name: LeftLowerLeg
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -5686,8 +5689,8 @@ ScriptedImporter:
     - {x: 34, y: 35}
     - {x: 35, y: 36}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -187, y: 621}
+    uvTransform: {x: 4, y: 705}
+    spritePosition: {x: 191, y: 84}
   - name: Capa 4
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -6002,8 +6005,8 @@ ScriptedImporter:
     - {x: 23, y: 24}
     - {x: 24, y: 25}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 592, y: 1892}
+    uvTransform: {x: 765, y: 1893}
+    spritePosition: {x: 173, y: 1}
   - name: LeftUpperLeg
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -6398,8 +6401,8 @@ ScriptedImporter:
     - {x: 27, y: 28}
     - {x: 28, y: 29}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 102, y: -150}
+    uvTransform: {x: 371, y: 292}
+    spritePosition: {x: 269, y: 442}
   - name: Belt_Protector
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -6789,8 +6792,8 @@ ScriptedImporter:
     - {x: 29, y: 30}
     - {x: 30, y: 31}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 250, y: 79}
+    uvTransform: {x: 592, y: 839}
+    spritePosition: {x: 342, y: 760}
   - name: Waist
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -7158,8 +7161,8 @@ ScriptedImporter:
     - {x: 27, y: 28}
     - {x: 28, y: 29}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 269, y: 710}
+    uvTransform: {x: 592, y: 1512}
+    spritePosition: {x: 323, y: 802}
   - name: Abdomen
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -7523,8 +7526,8 @@ ScriptedImporter:
     - {x: 25, y: 26}
     - {x: 26, y: 27}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 258, y: -413}
+    uvTransform: {x: 592, y: 545}
+    spritePosition: {x: 334, y: 958}
   - name: RightUpperLeg
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -7859,8 +7862,8 @@ ScriptedImporter:
     - {x: 24, y: 25}
     - {x: 25, y: 26}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -484, y: 705}
+    uvTransform: {x: 4, y: 1189}
+    spritePosition: {x: 488, y: 484}
   - name: RightLowerLeg
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -8255,8 +8258,8 @@ ScriptedImporter:
     - {x: 27, y: 28}
     - {x: 28, y: 29}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -234, y: 746}
+    uvTransform: {x: 371, y: 836}
+    spritePosition: {x: 605, y: 90}
   - name: RightFeet
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -8580,8 +8583,8 @@ ScriptedImporter:
     - {x: 23, y: 24}
     - {x: 24, y: 25}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -16, y: 1756}
+    uvTransform: {x: 592, y: 1756}
+    spritePosition: {x: 608, y: 0}
   - name: RightBlaster
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -9055,8 +9058,8 @@ ScriptedImporter:
     - {x: 35, y: 36}
     - {x: 36, y: 37}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -578, y: -870}
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 582, y: 874}
   - name: Capa 3
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -9424,8 +9427,8 @@ ScriptedImporter:
     - {x: 27, y: 28}
     - {x: 28, y: 29}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -183, y: 344}
+    uvTransform: {x: 371, y: 1351}
+    spritePosition: {x: 554, y: 1007}
   - name: Capa 2
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -9791,8 +9794,8 @@ ScriptedImporter:
     - {x: 26, y: 27}
     - {x: 27, y: 28}
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: 104, y: -938}
+    uvTransform: {x: 592, y: 292}
+    spritePosition: {x: 488, y: 1230}
   - name: Capa 1
     originalName: 
     pivot: {x: 0.5, y: 0.5}
@@ -9812,8 +9815,8 @@ ScriptedImporter:
     indices: 
     edges: []
     tessellationDetail: 0
-    parentGroupIndex: -1
-    uvTransform: {x: -319, y: 120}
+    uvTransform: {x: 1006, y: 1756}
+    spritePosition: {x: 0, y: 1636}
   characterData:
     bones:
     - name: bone_1
@@ -10242,6 +10245,7 @@ ScriptedImporter:
       order: 0
     dimension: {x: 0, y: 0}
     characterGroups: []
+    pivot: {x: 0, y: 0}
     boneReadOnly: 0
   sharedRigSpriteImportData: []
   sharedRigCharacterData:
@@ -10249,6 +10253,7 @@ ScriptedImporter:
     parts: []
     dimension: {x: 0, y: 0}
     characterGroups: []
+    pivot: {x: 0, y: 0}
     boneReadOnly: 0
   platformSettings: []
   mosaicLayers: 1
@@ -10261,6 +10266,10 @@ ScriptedImporter:
   paperDollMode: 0
   keepDupilcateSpriteName: 1
   skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
   spriteCategoryList:
     categories: []
   spritePackingTag: 
@@ -10539,6 +10548,9 @@ ScriptedImporter:
     isVisible: 1
   sharedRigPSDLayers: []
   pSDLayerImportSetting: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
   generateGOHierarchy: 0
   textureAssetName: 
   prefabAssetName: 
